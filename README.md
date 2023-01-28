@@ -8,7 +8,7 @@ Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 1. Get the independent variable X and dependent variable Y.
 2. Calculate the mean of the X -values and the mean of the Y -values.
-3. Find the slope m of the line of best fit using the formula. ![INPUT][image](https://user-images.githubusercontent.com/118707852/215237210-b0980e51-387e-4ca9-b14f-cadad3662433.png)
+3. Find the slope m of the line of best fit using the formula.![image](https://user-images.githubusercontent.com/118707852/215237210-b0980e51-387e-4ca9-b14f-cadad3662433.png)
 
 4. 4. Compute the y -intercept of the line by using the formula: ![image](https://user-images.githubusercontent.com/118707852/215237275-467a8267-389f-4148-b4bc-a083c9209491.png)
 
