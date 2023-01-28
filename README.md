@@ -13,6 +13,7 @@ Anaconda – Python 3.7 Installation / Moodle-Code Runner
 5. Use the slope m and the y -intercept to form the equation of the line.
 6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
 ## Program
+```
 #Reference No: 22008584
 #Developed by: M Nikhil
 
@@ -37,7 +38,9 @@ print(ypred)
 plt.scatter(x,y,color='Red')
 plt.plot(x,ypred,color='Blue')
 plt.show()
+```
 ## Output
+![image](https://user-images.githubusercontent.com/118707852/215237112-8ed55cb2-f3df-4d22-b3ba-ea432d623fc1.png)
 
 
 Result
